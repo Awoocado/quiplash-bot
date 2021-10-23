@@ -1,0 +1,18 @@
+{
+  "Print to console": {
+    "scope": "javascript,typescript",
+    "prefix": "component",
+    "body": [
+     "{",
+     "  name: '',",
+     "  /**",
+     "  * @param {import('discord.js').MessageComponentInteraction} interaction",
+     "  * */",
+     "  async execute(client, interaction){",
+     "    $0",
+     "  }",
+     "}"
+    ],
+    "description": "New Component"
+  }
+}

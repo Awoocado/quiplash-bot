@@ -1,0 +1,25 @@
+{
+  "Print to console": {
+    "scope": "javascript,typescript",
+    "prefix": "interaction",
+    "body": [
+     "module.exports = {",
+     "  data: {",
+     "    name: '',",
+     "    description:'',",
+     "    //options: [],",
+     "    default_permission: true,",
+     "    type: 1",
+     "  },",
+     "  /**",
+     "  * @param {import('discord.js').Client} client",
+     "  * @param {import('discord.js').CommandInteraction} interaction",
+     "  * */",
+     "  async execute(client, interaction){",
+     "  $0",
+     "  }",
+     "}",
+    ],
+    "description": "New Interaction"
+  }
+}

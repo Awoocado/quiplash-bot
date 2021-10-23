@@ -1,0 +1,13 @@
+version: '3'
+services:
+  database: 
+    image: 'mongo'
+    container_name: "quiplash-mongodb"
+    environment:
+      - MONGO_INITDB_DATABASE=discordbot
+      - MONGO_INITDB_ROOT_USERNAME=bot
+      - MONGO_INITDB_ROOT_PASSWORD=awoo
+    volumes:
+      - ./mongodb-data:/data/db
+    ports:
+      - '37017-37019:27017-27019'

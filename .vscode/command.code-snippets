@@ -1,0 +1,22 @@
+{
+  "Print to console": {
+    "scope": "javascript,typescript",
+    "prefix": "command",
+    "body": [
+     "module.exports = {",
+     "  data: {",
+     "    name: ''",
+     "  },",
+     "  /**",
+     "  * @param {import('discord.js').Client} client",
+     "  * @param {import('discord.js').Message} message",
+     "  * @param {String[]} args",
+     "  * */",
+     "  async execute(client, message, args){",
+     "  $0",
+     "  }",
+     "}",
+    ],
+    "description": "New Command"
+  }
+}
