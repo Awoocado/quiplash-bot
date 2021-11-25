@@ -278,12 +278,49 @@ function createVoteEmbed(game, question, finished)
   let va2 = question.votes.filter(v => v.answer == 1)
   let u1 = a1?.user || question.users.find(u => u != a2?.user)
   let u2 = a2?.user || question.users.find(u => u != u1)
+  console.log(game.points)
+  if(finished)
+  {
+    let p1 = game.points.get(u1)
+    let p2 = game.points.get(u2)
+    if(va1.length>va2.length)
+    {
+      if(p1)
+      {
+        game.points.set(u1, p1 + Math.floor((5000/game.players.length)*va1.length))
+      }else{
+        game.points.set(Math.floor((5000/game.players.length)*va1.length))
+      }
+    }else if(va2.length>va1.length) {
+      if(p2)
+      {
+        game.points.set(u2, p2 + Math.floor((5000/game.players.length)*va2.length))
+      }else{
+        game.points.set(u2, Math.floor((5000/game.players.length)*va2.length))
+      }
+    } else if(va1 == va2) {
+      if(p1)
+      {
+        game.points.set(u1, p1 + Math.floor((5000/game.players.length)*va1.length))
+      }else{
+        game.points.set(u1, Math.floor((5000/game.players.length)*va1.length))
+      }
+      if(p2)
+      {
+        game.points.set(u2, p2 + Math.floor((5000/game.players.length)*va2.length))
+      }else{
+        game.points.set(u2, Math.floor((5000/game.players.length)*va2.length))
+      }
+      game.markModified('points')
+      game.save()
+    }
+  }
   let embed = new MessageEmbed()
     .setColor(0xf5c842)
     .setAuthor(game.name)
     .setDescription(question.prompt)
-    .addField('1.- '+(a1?.a||'Sin respuesta'), finished ? `<@${u1}>\nVotes: ${va1.length}${va1.length>va2.length?'  **Ganador**':''}\n${va1.map(v => '<@'+v.user+'>')}` : '\u200b')
-    .addField('2.- '+(a2?.a||'Sin respuesta'), finished ? `<@${u2}>\nVotes: ${va2.length}${va2.length>va1.length?'  **Ganador**':''}\n${va2.map(v => '<@'+v.user+'>')}` : '\u200b')
+    .addField('1.- '+(a1?.a||'Sin respuesta'), finished ? `<@${u1}>\nVotes: ${va1.length}${va1.length>va2.length?'  **Ganador**':''}\n${va1.map(v => '<@'+v.user+'>')}${finished?'\nPuntos: '+(game.points[u1]??0):''}` : '\u200b')
+    .addField('2.- '+(a2?.a||'Sin respuesta'), finished ? `<@${u2}>\nVotes: ${va2.length}${va2.length>va1.length?'  **Ganador**':''}\n${va2.map(v => '<@'+v.user+'>')}${finished?'\nPuntos: '+(game.points[u2]??0):''}` : '\u200b')
   if(va1 == va2 && finished)
   {
     embed.addField('Empate!', '\u200b')
@@ -293,26 +330,30 @@ function createVoteEmbed(game, question, finished)
 
 function votingPhase(interaction, game)
 {
-  console.log(interaction)
   game.phase = 'vote'
   game.save()
-  interaction.message.channel.send('Hora de votar')
-    .then(w => setTimeout(() => w.delete(), 3000))
   for(let i = 0; i <= game.questions.length*2; i++)
   {
     let question = game.questions[Math.floor(i/2)]
     if(!question)
     {
       setTimeout(async () => {
+        console.log([...game.points].sort((a,b) => b[1]-a[1]))
         interaction.editReply({
-          content: 'Juego finalizado'
+          content: 'Juego finalizado',
+          embeds: [
+            new MessageEmbed()
+              .setColor(0xf5c842)
+              .setAuthor(game.name)
+              .setDescription([...game.points].sort((a,b) => b[1]-a[1]).map(p => `<@${p[0]}> - ${p[1]}`).join("\n"))
+          ]
         })
         let m = await interaction.channel.send({
           content: 'Juego finalizado'
         })
         setTimeout(() => m.delete(), 5000)
         game.phase = 'ended'
-        new ReplayModel(game._doc).save()
+        new ReplayModel({...game._doc, _id: interaction.message.id}).save()
         game.deleteOne()
         GameModel.deleteOne({_id: interaction.channelId})
       }, i*30*1000)
@@ -333,13 +374,13 @@ function votingPhase(interaction, game)
       if(i%2==1)
       {
         let m = await interaction.followUp({
-          content: 'Resultados de las votaciones',
+          content: 'Resultados de las votaciones, tienen 30 segundos',
           fetchReply: true
         })
         setTimeout(() => m.delete(), 10000)
       }else{
         let m = await interaction.followUp({
-          content: 'Hora de votar',
+          content: 'Hora de votar, tienen 30 segundos',
           fetchReply: true
         })
         setTimeout(() => m.delete(), 10000)

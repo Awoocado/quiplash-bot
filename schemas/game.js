@@ -14,5 +14,5 @@ module.exports = mongoose.model('game', new mongoose.Schema({
     votes: [{answer: Number, user: String}]
   }],
   phase: { type: String, default: 'lobby' },
-  points: {user: String, p: Number}
+  points: { type: Map, of: Number}
 }))

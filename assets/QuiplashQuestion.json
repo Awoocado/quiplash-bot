@@ -8,7 +8,7 @@
         {
             "x": false,
             "id": 60078,
-            "prompt": "La forma más rápida de recibir una visita del ratoncito Pérez esta noche es <BLANK>"
+            "prompt": "La forma más rápida de recibir una visita del ratoncito Pérez esta noche es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -18,7 +18,7 @@
         {
             "x": false,
             "id": 60080,
-            "prompt": "La NASA no quiere que sepamos que ha visto <BLANK> a través de un supertelescopio"
+            "prompt": "La NASA no quiere que sepamos que ha visto \\_\\_\\_\\_\\_\\_\\_\\_\\_ a través de un supertelescopio"
         },
         {
             "x": false,
@@ -58,7 +58,7 @@
         {
             "x": false,
             "id": 60088,
-            "prompt": "La pareja más extraña del mundo: Bertín Osborne y <BLANK>"
+            "prompt": "La pareja más extraña del mundo: Bertín Osborne y \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -83,7 +83,7 @@
         {
             "x": false,
             "id": 60093,
-            "prompt": "Qué raro sería que los alienígenas llegaran y lo primero que dijeran es \u201cllevadnos ante <BLANK>\u201d"
+            "prompt": "Qué raro sería que los alienígenas llegaran y lo primero que dijeran es \u201cllevadnos ante \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": true,
@@ -113,7 +113,7 @@
         {
             "x": false,
             "id": 60099,
-            "prompt": "Por lo que a ti respecta, los científicos tienen que clonar como sea a <BLANK>"
+            "prompt": "Por lo que a ti respecta, los científicos tienen que clonar como sea a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -133,12 +133,12 @@
         {
             "x": false,
             "id": 60103,
-            "prompt": "Sabes que tu pequeño se está haciendo mayor cuando empieza a <BLANK>"
+            "prompt": "Sabes que tu pequeño se está haciendo mayor cuando empieza a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
             "id": 60104,
-            "prompt": "A la pubertad también se la conoce como la edad del <BLANK>"
+            "prompt": "A la pubertad también se la conoce como la edad del \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -148,7 +148,7 @@
         {
             "x": true,
             "id": 60106,
-            "prompt": "La palmas, vas al cielo y te enteras de que todos los jueves por la noche hay <BLANK>"
+            "prompt": "La palmas, vas al cielo y te enteras de que todos los jueves por la noche hay \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -208,7 +208,7 @@
         {
             "x": true,
             "id": 60118,
-            "prompt": "Encontrar un billete dentro de los pantalones está muy bien, pero es mejor encontrar una <BLANK>"
+            "prompt": "Encontrar un billete dentro de los pantalones está muy bien, pero es mejor encontrar una \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -228,12 +228,12 @@
         {
             "x": false,
             "id": 60122,
-            "prompt": "La triste realidad de un muñeco de nieve es que se <BLANK>"
+            "prompt": "La triste realidad de un muñeco de nieve es que se \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
             "id": 60123,
-            "prompt": "El nombre de la postura sexual más aburrida del mundo es el <BLANK>"
+            "prompt": "El nombre de la postura sexual más aburrida del mundo es el \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -243,7 +243,7 @@
         {
             "x": false,
             "id": 60125,
-            "prompt": "La peor excusa que puedes poner por llegar tarde a tu propia boda es que estabas <BLANK>"
+            "prompt": "La peor excusa que puedes poner por llegar tarde a tu propia boda es que estabas \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -253,7 +253,7 @@
         {
             "x": false,
             "id": 60127,
-            "prompt": "Si fueran un deporte olímpico, ganarías la medalla de oro en los 500 metros <BLANK>"
+            "prompt": "Si fueran un deporte olímpico, ganarías la medalla de oro en los 500 metros \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -263,7 +263,7 @@
         {
             "x": false,
             "id": 60129,
-            "prompt": "Una buena idea es usar el cubo de las palomitas del cine para <BLANK>"
+            "prompt": "Una buena idea es usar el cubo de las palomitas del cine para \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -273,7 +273,7 @@
         {
             "x": false,
             "id": 60132,
-            "prompt": "En tu curro no necesitas un detector de metales, pero te vendría bien un detector de <BLANK>"
+            "prompt": "En tu curro no necesitas un detector de metales, pero te vendría bien un detector de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -283,7 +283,7 @@
         {
             "x": false,
             "id": 60131,
-            "prompt": "El donut más asqueroso del mundo está relleno de <BLANK>"
+            "prompt": "El donut más asqueroso del mundo está relleno de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -308,7 +308,7 @@
         {
             "x": true,
             "id": 60138,
-            "prompt": "La parte más censurada del Nuevo Testamento es cuando Jesús <BLANK> después de la última cena"
+            "prompt": "La parte más censurada del Nuevo Testamento es cuando Jesús \\_\\_\\_\\_\\_\\_\\_\\_\\_ después de la última cena"
         },
         {
             "x": false,
@@ -328,12 +328,12 @@
         {
             "x": false,
             "id": 60142,
-            "prompt": "Nunca respondas a una oferta de trabajo de un restaurante donde diga que te tiene que gustar <BLANK>"
+            "prompt": "Nunca respondas a una oferta de trabajo de un restaurante donde diga que te tiene que gustar \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60143,
-            "prompt": "Lo único que no te enseñan cuando haces una visita guiada por el Louvre es el <BLANK>"
+            "prompt": "Lo único que no te enseñan cuando haces una visita guiada por el Louvre es el \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -353,7 +353,7 @@
         {
             "x": false,
             "id": 60147,
-            "prompt": "Lo peor que te pueden servir en Inglaterra es paella con <BLANK>"
+            "prompt": "Lo peor que te pueden servir en Inglaterra es paella con \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -368,7 +368,7 @@
         {
             "x": false,
             "id": 60150,
-            "prompt": "La última moda entre los hípsters: <BLANK> embotellado"
+            "prompt": "La última moda entre los hípsters: \\_\\_\\_\\_\\_\\_\\_\\_\\_ embotellado"
         },
         {
             "x": false,
@@ -383,7 +383,7 @@
         {
             "x": false,
             "id": 60153,
-            "prompt": "Al final de los partidos de fútbol, te gustaría que los equipos rivales se <BLANK>"
+            "prompt": "Al final de los partidos de fútbol, te gustaría que los equipos rivales se \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -393,7 +393,7 @@
         {
             "x": false,
             "id": 60155,
-            "prompt": "En un futuro cercano, los científicos descubrirán que los dinosaurios se <BLANK>"
+            "prompt": "En un futuro cercano, los científicos descubrirán que los dinosaurios se \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -403,7 +403,7 @@
         {
             "x": false,
             "id": 60157,
-            "prompt": "Sin lugar a dudas, el peor compañero de piso de la historia sería <BLANK>"
+            "prompt": "Sin lugar a dudas, el peor compañero de piso de la historia sería \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -413,12 +413,12 @@
         {
             "x": false,
             "id": 60159,
-            "prompt": "Jamás te comprarías un coche que se llamara Seat <BLANK>"
+            "prompt": "Jamás te comprarías un coche que se llamara Seat \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60160,
-            "prompt": "En una primera cita, nunca debes ir a <BLANK>"
+            "prompt": "En una primera cita, nunca debes ir a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -428,7 +428,7 @@
         {
             "x": false,
             "id": 60162,
-            "prompt": "Todo el mundo queda guay encima de una moto excepto <BLANK>"
+            "prompt": "Todo el mundo queda guay encima de una moto excepto \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -443,7 +443,7 @@
         {
             "x": false,
             "id": 60165,
-            "prompt": "La ONG más innecesaria se encargaría de ayudar a los <BLANK>"
+            "prompt": "La ONG más innecesaria se encargaría de ayudar a los \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -453,7 +453,7 @@
         {
             "x": false,
             "id": 60167,
-            "prompt": "Cuando el autoestopista te dijo \u201c<BLANK>\u201d, supiste que no había sido buena idea"
+            "prompt": "Cuando el autoestopista te dijo \u201c\\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d, supiste que no había sido buena idea"
         },
         {
             "x": true,
@@ -468,7 +468,7 @@
         {
             "x": false,
             "id": 60170,
-            "prompt": "Ojalá se pudiera cultivar <BLANK> en el jardín de casa"
+            "prompt": "Ojalá se pudiera cultivar \\_\\_\\_\\_\\_\\_\\_\\_\\_ en el jardín de casa"
         },
         {
             "x": false,
@@ -493,7 +493,7 @@
         {
             "x": false,
             "id": 60175,
-            "prompt": "Deberían crear plazas de aparcamiento reservadas para <BLANK>"
+            "prompt": "Deberían crear plazas de aparcamiento reservadas para \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -503,7 +503,7 @@
         {
             "x": true,
             "id": 60177,
-            "prompt": "Una buena forma de ahorrar es sustituir el papel higiénico por <BLANK>"
+            "prompt": "Una buena forma de ahorrar es sustituir el papel higiénico por \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -513,7 +513,7 @@
         {
             "x": true,
             "id": 60179,
-            "prompt": "El artículo más extraño que podrías ver en una despedida de soltera es un <BLANK> con forma de pene"
+            "prompt": "El artículo más extraño que podrías ver en una despedida de soltera es un \\_\\_\\_\\_\\_\\_\\_\\_\\_ con forma de pene"
         },
         {
             "x": false,
@@ -523,17 +523,17 @@
         {
             "x": false,
             "id": 60181,
-            "prompt": "El hockey sobre hielo no está mal, pero el <BLANK> sobre hielo le da mil vueltas"
+            "prompt": "El hockey sobre hielo no está mal, pero el \\_\\_\\_\\_\\_\\_\\_\\_\\_ sobre hielo le da mil vueltas"
         },
         {
             "x": false,
             "id": 60182,
-            "prompt": "Sabes que vas en un crucero muy cutre cuando el capitán dice \u201cSi miran a babor, verán <BLANK>\u201d"
+            "prompt": "Sabes que vas en un crucero muy cutre cuando el capitán dice \u201cSi miran a babor, verán \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
             "id": 60183,
-            "prompt": "La auténtica ensaladilla rusa lleva mogollón de <BLANK>"
+            "prompt": "La auténtica ensaladilla rusa lleva mogollón de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -548,7 +548,7 @@
         {
             "x": false,
             "id": 60186,
-            "prompt": "Te das cuenta de que tus padres te querían fuera de casa cuando convierten tu habitación en <BLANK>"
+            "prompt": "Te das cuenta de que tus padres te querían fuera de casa cuando convierten tu habitación en \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -608,7 +608,7 @@
         {
             "x": false,
             "id": 60198,
-            "prompt": "Sabes que a tu casa le sobran metros cuadrados cuando tienes sitio para <BLANK>"
+            "prompt": "Sabes que a tu casa le sobran metros cuadrados cuando tienes sitio para \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -623,7 +623,7 @@
         {
             "x": false,
             "id": 60201,
-            "prompt": "Deberías hablar seriamente con tu hijo si llama <BLANK> a su osito de peluche"
+            "prompt": "Deberías hablar seriamente con tu hijo si llama \\_\\_\\_\\_\\_\\_\\_\\_\\_ a su osito de peluche"
         },
         {
             "x": false,
@@ -663,7 +663,7 @@
         {
             "x": true,
             "id": 60209,
-            "prompt": "El momento más divertido de la Última Cena fue cuando <BLANK>"
+            "prompt": "El momento más divertido de la Última Cena fue cuando \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -683,12 +683,12 @@
         {
             "x": false,
             "id": 60213,
-            "prompt": "Está claro que tu mecánico te tima si te dice que hay que cambiar el <BLANK>"
+            "prompt": "Está claro que tu mecánico te tima si te dice que hay que cambiar el \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60214,
-            "prompt": "De aquí a unos años, España pasará a llamarse <BLANK>"
+            "prompt": "De aquí a unos años, España pasará a llamarse \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -708,7 +708,7 @@
         {
             "x": false,
             "id": 60218,
-            "prompt": "El personaje que más echas de menos en las nuevas pelis de <i>Star Wars<\/i>"
+            "prompt": "El personaje que más echas de menos en las nuevas pelis de *Star Wars*"
         },
         {
             "x": false,
@@ -728,7 +728,7 @@
         {
             "x": false,
             "id": 60222,
-            "prompt": "La película <i>Eduardo Manostijeras<\/i> sería mucho mejor si se llamara <i>Eduardo Manos<BLANK><\/i>"
+            "prompt": "La película *Eduardo Manostijeras* sería mucho mejor si se llamara *Eduardo Manos\\_\\_\\_\\_\\_\\_\\_\\_\\_*"
         },
         {
             "x": false,
@@ -753,7 +753,7 @@
         {
             "x": false,
             "id": 60227,
-            "prompt": "Te sorprendería que hicieran una película sobre la vida de <BLANK>"
+            "prompt": "Te sorprendería que hicieran una película sobre la vida de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -763,7 +763,7 @@
         {
             "x": false,
             "id": 60229,
-            "prompt": "Los megarricos usan una cuchara especial para comer <BLANK>"
+            "prompt": "Los megarricos usan una cuchara especial para comer \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -788,7 +788,7 @@
         {
             "x": false,
             "id": 60234,
-            "prompt": "¿Qué ha visto el tipo de <i>El grito<\/i> de Munch?"
+            "prompt": "¿Qué ha visto el tipo de *El grito* de Munch?"
         },
         {
             "x": false,
@@ -803,12 +803,12 @@
         {
             "x": false,
             "id": 60237,
-            "prompt": "Todos los jardineros aprenden tarde o temprano que no hay que cortar <BLANK>"
+            "prompt": "Todos los jardineros aprenden tarde o temprano que no hay que cortar \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60238,
-            "prompt": "Nunca <BLANK> después de echarte crema hidratante"
+            "prompt": "Nunca \\_\\_\\_\\_\\_\\_\\_\\_\\_ después de echarte crema hidratante"
         },
         {
             "x": false,
@@ -868,12 +868,12 @@
         {
             "x": false,
             "id": 60250,
-            "prompt": "Si fueras camionero, preferirías no transportar <BLANK>"
+            "prompt": "Si fueras camionero, preferirías no transportar \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60251,
-            "prompt": "En vez de un traje de látex superajustado, Deadpool debería llevar <BLANK>"
+            "prompt": "En vez de un traje de látex superajustado, Deadpool debería llevar \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -893,17 +893,17 @@
         {
             "x": false,
             "id": 60255,
-            "prompt": "Si hay una emergencia en el avión, lo mejor que puedes hacer es <BLANK>"
+            "prompt": "Si hay una emergencia en el avión, lo mejor que puedes hacer es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60256,
-            "prompt": "La mejor forma de hacer el ridículo en <i>Saber y ganar<\/i>"
+            "prompt": "La mejor forma de hacer el ridículo en *Saber y ganar*"
         },
         {
             "x": true,
             "id": 60257,
-            "prompt": "El peor calendario sexy de la historia se llamaría \u201cLos hombres de <BLANK>\u201d "
+            "prompt": "El peor calendario sexy de la historia se llamaría \u201cLos hombres de \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d "
         },
         {
             "x": false,
@@ -998,12 +998,12 @@
         {
             "x": false,
             "id": 60276,
-            "prompt": "Si vieras una señal de \u201ccuidado con <BLANK>\u201d, darías la vuelta y te pirarías"
+            "prompt": "Si vieras una señal de \u201ccuidado con \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d, darías la vuelta y te pirarías"
         },
         {
             "x": false,
             "id": 60277,
-            "prompt": "Completa la frase: \u201cElegí un mal día para dejar de <BLANK>\u201d"
+            "prompt": "Completa la frase: \u201cElegí un mal día para dejar de \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": true,
@@ -1018,7 +1018,7 @@
         {
             "x": false,
             "id": 60280,
-            "prompt": "Jamás te alojarías en un lugar llamado Hotel <BLANK>"
+            "prompt": "Jamás te alojarías en un lugar llamado Hotel \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1038,7 +1038,7 @@
         {
             "x": false,
             "id": 60284,
-            "prompt": "Por experiencia, nunca calientes <BLANK> en el microondas"
+            "prompt": "Por experiencia, nunca calientes \\_\\_\\_\\_\\_\\_\\_\\_\\_ en el microondas"
         },
         {
             "x": false,
@@ -1058,7 +1058,7 @@
         {
             "x": false,
             "id": 60288,
-            "prompt": "No enviarías tu CV a una empresa llamada <BLANK>"
+            "prompt": "No enviarías tu CV a una empresa llamada \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1093,7 +1093,7 @@
         {
             "x": true,
             "id": 60295,
-            "prompt": "Saldrías perdiendo si le vendieras tu alma al diablo a cambio de <BLANK>"
+            "prompt": "Saldrías perdiendo si le vendieras tu alma al diablo a cambio de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -1108,7 +1108,7 @@
         {
             "x": false,
             "id": 60298,
-            "prompt": "Lo primero que harías si te nombraran delegado de clase sería <BLANK>"
+            "prompt": "Lo primero que harías si te nombraran delegado de clase sería \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -1123,7 +1123,7 @@
         {
             "x": false,
             "id": 60301,
-            "prompt": "El regalo más raro que te podrían hacer sería una almohada con <BLANK>"
+            "prompt": "El regalo más raro que te podrían hacer sería una almohada con \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1143,7 +1143,7 @@
         {
             "x": false,
             "id": 60305,
-            "prompt": "Para calcular la edad de un árbol, puedes contar los anillos o <BLANK>"
+            "prompt": "Para calcular la edad de un árbol, puedes contar los anillos o \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1153,7 +1153,7 @@
         {
             "x": false,
             "id": 60307,
-            "prompt": "En los zoológicos deberían cambiar los espectáculos de delfines por <BLANK>"
+            "prompt": "En los zoológicos deberían cambiar los espectáculos de delfines por \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1163,7 +1163,7 @@
         {
             "x": false,
             "id": 60309,
-            "prompt": "El primer cambio que harías en <i>Gran Hermano<\/i> sería <BLANK>"
+            "prompt": "El primer cambio que harías en *Gran Hermano* sería \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -1193,12 +1193,12 @@
         {
             "x": false,
             "id": 60315,
-            "prompt": "Lo peor que puede haber en un parque de atracciones es la casa del <BLANK>"
+            "prompt": "Lo peor que puede haber en un parque de atracciones es la casa del \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
             "id": 60316,
-            "prompt": "El peor momento para pedirle a alguien el divorcio es en medio de <BLANK>"
+            "prompt": "El peor momento para pedirle a alguien el divorcio es en medio de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -1233,7 +1233,7 @@
         {
             "x": false,
             "id": 60323,
-            "prompt": "Papá Noel debería cambiar los renos de su trineo por <BLANK>"
+            "prompt": "Papá Noel debería cambiar los renos de su trineo por \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1253,7 +1253,7 @@
         {
             "x": false,
             "id": 60327,
-            "prompt": "La única forma de librarte de una cena familiar es <blank>"
+            "prompt": "La única forma de librarte de una cena familiar es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -1263,12 +1263,12 @@
         {
             "x": false,
             "id": 60329,
-            "prompt": "Si vas a cenar a un restaurante de sushi, ni se te ocurra <BLANK>"
+            "prompt": "Si vas a cenar a un restaurante de sushi, ni se te ocurra \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60330,
-            "prompt": "La forma más lamentable de celebrar una despedida de soltero es <BLANK>"
+            "prompt": "La forma más lamentable de celebrar una despedida de soltero es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -1298,7 +1298,7 @@
         {
             "x": false,
             "id": 60336,
-            "prompt": "El secreto de una buena tortilla de patata es <BLANK>"
+            "prompt": "El secreto de una buena tortilla de patata es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1313,12 +1313,12 @@
         {
             "x": false,
             "id": 60339,
-            "prompt": "Así acabará <i>Cuéntame cómo pasó<\/i>"
+            "prompt": "Así acabará *Cuéntame cómo pasó*"
         },
         {
             "x": false,
             "id": 60340,
-            "prompt": "La mejor forma de hacerse multimillonario en dos días es <BLANK>"
+            "prompt": "La mejor forma de hacerse multimillonario en dos días es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1358,12 +1358,12 @@
         {
             "x": false,
             "id": 60348,
-            "prompt": "El octavo libro de Harry Potter debería llamarse <i>Harry Potter y <BLANK><\/i>"
+            "prompt": "El octavo libro de Harry Potter debería llamarse *Harry Potter y \\_\\_\\_\\_\\_\\_\\_\\_\\_*"
         },
         {
             "x": false,
             "id": 60349,
-            "prompt": "En el año 2085, la moneda oficial en España será el <BLANK>"
+            "prompt": "En el año 2085, la moneda oficial en España será el \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1373,7 +1373,7 @@
         {
             "x": false,
             "id": 60351,
-            "prompt": "Si el flautista de Hamelín quisiera impresionarnos, haría que le siguiera un grupo de <BLANK>"
+            "prompt": "Si el flautista de Hamelín quisiera impresionarnos, haría que le siguiera un grupo de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1398,12 +1398,12 @@
         {
             "x": false,
             "id": 60356,
-            "prompt": "La única forma de matar definitivamente una cucaracha es <BLANK>"
+            "prompt": "La única forma de matar definitivamente una cucaracha es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
             "id": 60357,
-            "prompt": "¡Briconsejo! Si no tienes un martillo a mano, usa <BLANK>"
+            "prompt": "¡Briconsejo! Si no tienes un martillo a mano, usa \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -1418,7 +1418,7 @@
         {
             "x": false,
             "id": 60360,
-            "prompt": "El trofeo más triste de la historia: \u201cPrimer puesto en <BLANK>\u201d"
+            "prompt": "El trofeo más triste de la historia: \u201cPrimer puesto en \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
@@ -1428,7 +1428,7 @@
         {
             "x": false,
             "id": 60362,
-            "prompt": "Te llamaría la atención ver un microondas con un ajuste específico para calentar <BLANK>"
+            "prompt": "Te llamaría la atención ver un microondas con un ajuste específico para calentar \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1448,17 +1448,17 @@
         {
             "x": false,
             "id": 60366,
-            "prompt": "El nuevo eslogan de BMW: \u201c¿Te gusta <BLANK>?\u201d"
+            "prompt": "El nuevo eslogan de BMW: \u201c¿Te gusta \\_\\_\\_\\_\\_\\_\\_\\_\\_?\u201d"
         },
         {
             "x": false,
             "id": 60367,
-            "prompt": "Alguien debería abrir un negocio de alquiler de <BLANK>"
+            "prompt": "Alguien debería abrir un negocio de alquiler de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60368,
-            "prompt": "La mejor forma de hacer un fuego es frotar dos <BLANK>"
+            "prompt": "La mejor forma de hacer un fuego es frotar dos \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1493,7 +1493,7 @@
         {
             "x": false,
             "id": 60375,
-            "prompt": "Si fueras general en el ejército, te pasarías el día gritando <BLANK>"
+            "prompt": "Si fueras general en el ejército, te pasarías el día gritando \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1503,17 +1503,17 @@
         {
             "x": false,
             "id": 60377,
-            "prompt": "Cuando te compres una casa, comprueba que el anterior propietario no <BLANK>"
+            "prompt": "Cuando te compres una casa, comprueba que el anterior propietario no \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60378,
-            "prompt": "Lo más difícil de ser presidente del Gobierno es que todos los días tienes que <BLANK>"
+            "prompt": "Lo más difícil de ser presidente del Gobierno es que todos los días tienes que \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60379,
-            "prompt": "Una tienda peculiar: <BLANK> R\u2019 US"
+            "prompt": "Una tienda peculiar: \\_\\_\\_\\_\\_\\_\\_\\_\\_ R\u2019 US"
         },
         {
             "x": false,
@@ -1523,7 +1523,7 @@
         {
             "x": false,
             "id": 60381,
-            "prompt": "El peor programa de TV: \u201cMujeres, hombres y <BLANK>\u201d"
+            "prompt": "El peor programa de TV: \u201cMujeres, hombres y \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
@@ -1533,7 +1533,7 @@
         {
             "x": true,
             "id": 60383,
-            "prompt": "La frase más famosa de una serie titulada <i>La casa de papel higiénico<\/i>"
+            "prompt": "La frase más famosa de una serie titulada *La casa de papel higiénico*"
         },
         {
             "x": false,
@@ -1548,7 +1548,7 @@
         {
             "x": false,
             "id": 60386,
-            "prompt": "En el coche de James Bond hay un botón donde simplemente pone <BLANK>"
+            "prompt": "En el coche de James Bond hay un botón donde simplemente pone \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1583,12 +1583,12 @@
         {
             "x": false,
             "id": 60393,
-            "prompt": "Las Tortugas Ninja deberían cambiar la pizza por <BLANK>"
+            "prompt": "Las Tortugas Ninja deberían cambiar la pizza por \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60394,
-            "prompt": "Ojalá los científicos nunca intenten clonar a <BLANK>"
+            "prompt": "Ojalá los científicos nunca intenten clonar a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -1598,7 +1598,7 @@
         {
             "x": true,
             "id": 60396,
-            "prompt": "<i>Torrente 8: <BLANK><\/i>"
+            "prompt": "*Torrente 8: \\_\\_\\_\\_\\_\\_\\_\\_\\_*"
         },
         {
             "x": false,
@@ -1628,7 +1628,7 @@
         {
             "x": false,
             "id": 60402,
-            "prompt": "Te preocuparía que en la etiqueta de tu camiseta pusiera \u201c2 % <BLANK>\u201d"
+            "prompt": "Te preocuparía que en la etiqueta de tu camiseta pusiera \u201c2 % \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
@@ -1648,7 +1648,7 @@
         {
             "x": false,
             "id": 60406,
-            "prompt": "Las máscaras de <BLANK> nunca se venden en las tiendas de disfraces"
+            "prompt": "Las máscaras de \\_\\_\\_\\_\\_\\_\\_\\_\\_ nunca se venden en las tiendas de disfraces"
         },
         {
             "x": false,
@@ -1673,7 +1673,7 @@
         {
             "x": true,
             "id": 60411,
-            "prompt": "Un buen título con rima para una película X sería <i>De oca a oca y <BLANK><\/i>"
+            "prompt": "Un buen título con rima para una película X sería *De oca a oca y \\_\\_\\_\\_\\_\\_\\_\\_\\_*"
         },
         {
             "x": true,
@@ -1698,7 +1698,7 @@
         {
             "x": true,
             "id": 60416,
-            "prompt": "El nombre de un reality show de <i>strippers<\/i> masculinos en baja forma"
+            "prompt": "El nombre de un reality show de *strippers* masculinos en baja forma"
         },
         {
             "x": false,
@@ -1728,7 +1728,7 @@
         {
             "x": false,
             "id": 60422,
-            "prompt": "Las aerolíneas serían capaces de <BLANK> con tal de ahorrar dinero"
+            "prompt": "Las aerolíneas serían capaces de \\_\\_\\_\\_\\_\\_\\_\\_\\_ con tal de ahorrar dinero"
         },
         {
             "x": false,
@@ -1753,7 +1753,7 @@
         {
             "x": true,
             "id": 60427,
-            "prompt": "Deberían actualizar la campaña \u201cDi no a las drogas\u201d y llamarla \u201cDi no a <BLANK>\u201d"
+            "prompt": "Deberían actualizar la campaña \u201cDi no a las drogas\u201d y llamarla \u201cDi no a \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
@@ -1763,7 +1763,7 @@
         {
             "x": false,
             "id": 60429,
-            "prompt": "Se rumorea que, para las próximas campanadas, Ramón García cambiará su característica capa por <BLANK>"
+            "prompt": "Se rumorea que, para las próximas campanadas, Ramón García cambiará su característica capa por \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1788,12 +1788,12 @@
         {
             "x": false,
             "id": 60434,
-            "prompt": "Los cruasanes deberían llamarse <BLANK>"
+            "prompt": "Los cruasanes deberían llamarse \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60435,
-            "prompt": "En el año 2040, el producto estrella de McDonald\u2019s será el Mc<BLANK> "
+            "prompt": "En el año 2040, el producto estrella de McDonald\u2019s será el Mc\\_\\_\\_\\_\\_\\_\\_\\_\\_ "
         },
         {
             "x": false,
@@ -1803,7 +1803,7 @@
         {
             "x": true,
             "id": 60437,
-            "prompt": "Lo único peor que despertarse y encontrar una cabeza de caballo en la cama sería <BLANK>"
+            "prompt": "Lo único peor que despertarse y encontrar una cabeza de caballo en la cama sería \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1813,7 +1813,7 @@
         {
             "x": false,
             "id": 60439,
-            "prompt": "Te das cuenta de que te han timado cuando el perrito que compraste se convierte en <BLANK>"
+            "prompt": "Te das cuenta de que te han timado cuando el perrito que compraste se convierte en \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1863,22 +1863,22 @@
         {
             "x": false,
             "id": 60449,
-            "prompt": "Los palillos chinos son sorprendentemente útiles para <BLANK>"
+            "prompt": "Los palillos chinos son sorprendentemente útiles para \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60450,
-            "prompt": "Cuando un niño se porta mal, hay que mirarle a los ojos y decirle: \u201c<BLANK>\u201d"
+            "prompt": "Cuando un niño se porta mal, hay que mirarle a los ojos y decirle: \u201c\\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
             "id": 60451,
-            "prompt": "Algunas alcachofas de ducha tienen ajustes como \u201cMasaje\u201d, \u201cLluvia\u201d y, si te va lo extremo, \u201c<BLANK>\u201d"
+            "prompt": "Algunas alcachofas de ducha tienen ajustes como \u201cMasaje\u201d, \u201cLluvia\u201d y, si te va lo extremo, \u201c\\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
             "id": 60452,
-            "prompt": "Ya sabes: siempre hay que llevar un <BLANK> en la cartera"
+            "prompt": "Ya sabes: siempre hay que llevar un \\_\\_\\_\\_\\_\\_\\_\\_\\_ en la cartera"
         },
         {
             "x": false,
@@ -1898,7 +1898,7 @@
         {
             "x": false,
             "id": 60456,
-            "prompt": "¡Última hora! Los científicos han descubierto el animal más letal del planeta: el tiburón <BLANK>"
+            "prompt": "¡Última hora! Los científicos han descubierto el animal más letal del planeta: el tiburón \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1918,7 +1918,7 @@
         {
             "x": false,
             "id": 60460,
-            "prompt": "¡Alerta, alerta! ¡Los aliens existen y están <BLANK>!"
+            "prompt": "¡Alerta, alerta! ¡Los aliens existen y están \\_\\_\\_\\_\\_\\_\\_\\_\\_!"
         },
         {
             "x": false,
@@ -1928,7 +1928,7 @@
         {
             "x": false,
             "id": 60462,
-            "prompt": "Si quieres desperdiciar tu única llamada desde prisión, llama a <BLANK>"
+            "prompt": "Si quieres desperdiciar tu única llamada desde prisión, llama a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -1938,7 +1938,7 @@
         {
             "x": true,
             "id": 60464,
-            "prompt": "Cuando la cigüeña no reparte bebés, se dedica a <BLANK>"
+            "prompt": "Cuando la cigüeña no reparte bebés, se dedica a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -1948,7 +1948,7 @@
         {
             "x": false,
             "id": 60466,
-            "prompt": "La belleza está en el interior, más concretamente en <BLANK>"
+            "prompt": "La belleza está en el interior, más concretamente en \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1978,7 +1978,7 @@
         {
             "x": false,
             "id": 60472,
-            "prompt": "La mejor forma de ahorrar electricidad es <BLANK>"
+            "prompt": "La mejor forma de ahorrar electricidad es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -1993,7 +1993,7 @@
         {
             "x": false,
             "id": 60475,
-            "prompt": "La torre Eiffel molaría mucho más si tuviera <BLANK>"
+            "prompt": "La torre Eiffel molaría mucho más si tuviera \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2008,12 +2008,12 @@
         {
             "x": true,
             "id": 60478,
-            "prompt": "Lo peor que podría decirte tu pareja es que te deja por <BLANK>"
+            "prompt": "Lo peor que podría decirte tu pareja es que te deja por \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
             "id": 60479,
-            "prompt": "En la peor despedida de soltero encontrarías <BLANK>"
+            "prompt": "En la peor despedida de soltero encontrarías \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -2023,17 +2023,17 @@
         {
             "x": true,
             "id": 60481,
-            "prompt": "Antes de casarte, acuérdate de <BLANK>"
+            "prompt": "Antes de casarte, acuérdate de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60482,
-            "prompt": "Todos los viajes en avión deberían incluir <BLANK>"
+            "prompt": "Todos los viajes en avión deberían incluir \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60483,
-            "prompt": "Dentro de 25 años, la gente pensará que éramos estúpidos por no haber sabido que <BLANK>"
+            "prompt": "Dentro de 25 años, la gente pensará que éramos estúpidos por no haber sabido que \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2058,7 +2058,7 @@
         {
             "x": false,
             "id": 60488,
-            "prompt": "Si por ti fuera, la gente iría al trullo por <BLANK>"
+            "prompt": "Si por ti fuera, la gente iría al trullo por \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2078,7 +2078,7 @@
         {
             "x": false,
             "id": 60492,
-            "prompt": "¿Es un pájaro? ¿Es un avión? Pues no, solo es <BLANK>"
+            "prompt": "¿Es un pájaro? ¿Es un avión? Pues no, solo es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2148,17 +2148,17 @@
         {
             "x": false,
             "id": 60506,
-            "prompt": "Lo único en lo que todos los españoles estamos de acuerdo es en que <BLANK>"
+            "prompt": "Lo único en lo que todos los españoles estamos de acuerdo es en que \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60507,
-            "prompt": "En la peor versión de <i>El señor de los anillos<\/i>, Frodo estaría interpretado por <BLANK>"
+            "prompt": "En la peor versión de *El señor de los anillos*, Frodo estaría interpretado por \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60508,
-            "prompt": "Solo hay que ser intolerantes con la intolerancia. Ah, y con <BLANK>"
+            "prompt": "Solo hay que ser intolerantes con la intolerancia. Ah, y con \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2183,7 +2183,7 @@
         {
             "x": false,
             "id": 60513,
-            "prompt": "Si quieres encontrar imágenes insólitas en internet, busca \u201c<BLANK>\u201d"
+            "prompt": "Si quieres encontrar imágenes insólitas en internet, busca \u201c\\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": true,
@@ -2208,7 +2208,7 @@
         {
             "x": false,
             "id": 60518,
-            "prompt": "Como decía mi abuela, no te fíes de <BLANK>"
+            "prompt": "Como decía mi abuela, no te fíes de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2218,7 +2218,7 @@
         {
             "x": false,
             "id": 60520,
-            "prompt": "<BLANK>: la nueva fragancia de Ana Rosa Quintana"
+            "prompt": "\\_\\_\\_\\_\\_\\_\\_\\_\\_: la nueva fragancia de Ana Rosa Quintana"
         },
         {
             "x": true,
@@ -2248,7 +2248,7 @@
         {
             "x": false,
             "id": 60526,
-            "prompt": "La mejor forma de pasar el sábado es tirado en el sofá con <BLANK>"
+            "prompt": "La mejor forma de pasar el sábado es tirado en el sofá con \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -2313,7 +2313,7 @@
         {
             "x": false,
             "id": 60539,
-            "prompt": "Nunca te enrolles con alguien que <BLANK>"
+            "prompt": "Nunca te enrolles con alguien que \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2323,7 +2323,7 @@
         {
             "x": false,
             "id": 60541,
-            "prompt": "Cuanta más pasta tienes, más <BLANK>"
+            "prompt": "Cuanta más pasta tienes, más \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -2333,7 +2333,7 @@
         {
             "x": false,
             "id": 60543,
-            "prompt": "El nuevo éxito entre los niños: <i>Dora la <BLANK><\/i>"
+            "prompt": "El nuevo éxito entre los niños: *Dora la \\_\\_\\_\\_\\_\\_\\_\\_\\_*"
         },
         {
             "x": false,
@@ -2343,12 +2343,12 @@
         {
             "x": false,
             "id": 60545,
-            "prompt": "El título de un libro de <i>Juego de tronos<\/i> que nunca se publicó"
+            "prompt": "El título de un libro de *Juego de tronos* que nunca se publicó"
         },
         {
             "x": false,
             "id": 60546,
-            "prompt": "<i>Solo en casa 7<i>: <BLANK>"
+            "prompt": "*Solo en casa 7*: \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2368,7 +2368,7 @@
         {
             "x": false,
             "id": 60550,
-            "prompt": "Nada da más miedo que un <BLANK> a lomos de un <BLANK>"
+            "prompt": "Nada da más miedo que un \\_\\_\\_\\_\\_\\_\\_\\_\\_ a lomos de un \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -2378,7 +2378,7 @@
         {
             "x": false,
             "id": 60552,
-            "prompt": "El mayordomo de Batman conoce su verdadera identidad, pero no sabe que <BLANK>"
+            "prompt": "El mayordomo de Batman conoce su verdadera identidad, pero no sabe que \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2398,7 +2398,7 @@
         {
             "x": false,
             "id": 60556,
-            "prompt": "Una novela romántica cutre estaría protagonizada por una chica que se enamora de un <BLANK>"
+            "prompt": "Una novela romántica cutre estaría protagonizada por una chica que se enamora de un \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -2428,7 +2428,7 @@
         {
             "x": false,
             "id": 60562,
-            "prompt": "El peor nombre para un personaje de <i>Star Wars<\/i>"
+            "prompt": "El peor nombre para un personaje de *Star Wars*"
         },
         {
             "x": true,
@@ -2443,12 +2443,12 @@
         {
             "x": false,
             "id": 60565,
-            "prompt": "El juego infantil más terrorífico es la <BLANK> ciega"
+            "prompt": "El juego infantil más terrorífico es la \\_\\_\\_\\_\\_\\_\\_\\_\\_ ciega"
         },
         {
             "x": false,
             "id": 60566,
-            "prompt": "La mejor peli de la saga: <i>Indiana Jones y <BLANK><\/i>"
+            "prompt": "La mejor peli de la saga: *Indiana Jones y \\_\\_\\_\\_\\_\\_\\_\\_\\_*"
         },
         {
             "x": true,
@@ -2478,7 +2478,7 @@
         {
             "x": false,
             "id": 60572,
-            "prompt": "La nueva regla del parchís: te comes una y <BLANK>"
+            "prompt": "La nueva regla del parchís: te comes una y \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2523,17 +2523,17 @@
         {
             "x": false,
             "id": 60581,
-            "prompt": "Sabes que has encontrado a tu alma gemela cuando te mira a los ojos y te dice <BLANK>"
+            "prompt": "Sabes que has encontrado a tu alma gemela cuando te mira a los ojos y te dice \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
             "id": 60582,
-            "prompt": "Lo último que te quedarías de un familiar difunto sería <BLANK>"
+            "prompt": "Lo último que te quedarías de un familiar difunto sería \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60583,
-            "prompt": "Los peores interrogatorios tienen un poli bueno, un poli malo y un poli <BLANK>"
+            "prompt": "Los peores interrogatorios tienen un poli bueno, un poli malo y un poli \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2543,7 +2543,7 @@
         {
             "x": true,
             "id": 60585,
-            "prompt": "Por las mañanas no eres persona hasta que te duchas y <BLANK>"
+            "prompt": "Por las mañanas no eres persona hasta que te duchas y \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2558,7 +2558,7 @@
         {
             "x": false,
             "id": 60588,
-            "prompt": "Los empleados de IKEA no soportan que <BLANK>"
+            "prompt": "Los empleados de IKEA no soportan que \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -2618,17 +2618,17 @@
         {
             "x": false,
             "id": 60600,
-            "prompt": "El nuevo líder de audiencia: <i>Tu <BLANK> me suena<\/i>"
+            "prompt": "El nuevo líder de audiencia: *Tu \\_\\_\\_\\_\\_\\_\\_\\_\\_ me suena*"
         },
         {
             "x": false,
             "id": 60601,
-            "prompt": "La parte mala de compartir saco de dormir con <ANY PLAYER>"
+            "prompt": "La parte mala de compartir saco de dormir con algun miembro del server"
         },
         {
             "x": false,
             "id": 60602,
-            "prompt": "Las autovías deberían tener un carril exclusivo para <BLANK>"
+            "prompt": "Las autovías deberían tener un carril exclusivo para \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2643,7 +2643,7 @@
         {
             "x": false,
             "id": 60605,
-            "prompt": "Como bien decía tu abuelo, nunca aceptes <BLANK> de desconocidos"
+            "prompt": "Como bien decía tu abuelo, nunca aceptes \\_\\_\\_\\_\\_\\_\\_\\_\\_ de desconocidos"
         },
         {
             "x": false,
@@ -2653,12 +2653,12 @@
         {
             "x": true,
             "id": 60607,
-            "prompt": "Si quieres hacerte respetar en la prisión, acércate al recluso con peor pinta y <BLANK>"
+            "prompt": "Si quieres hacerte respetar en la prisión, acércate al recluso con peor pinta y \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60608,
-            "prompt": "Las autoridades sanitarias permiten que los menús escolares contengan un 4 % de <BLANK>"
+            "prompt": "Las autoridades sanitarias permiten que los menús escolares contengan un 4 % de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2673,7 +2673,7 @@
         {
             "x": false,
             "id": 60611,
-            "prompt": "Primer borrador de <i>Tiburón<\/i>: \u201cNecesitamos un <BLANK> más grande\u201d"
+            "prompt": "Primer borrador de *Tiburón*: \u201cNecesitamos un \\_\\_\\_\\_\\_\\_\\_\\_\\_ más grande\u201d"
         },
         {
             "x": false,
@@ -2718,7 +2718,7 @@
         {
             "x": true,
             "id": 60620,
-            "prompt": "Uno de los diez mandamientos debería ser \u201cNo <BLANK>\u201d"
+            "prompt": "Uno de los diez mandamientos debería ser \u201cNo \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
@@ -2738,7 +2738,7 @@
         {
             "x": false,
             "id": 60624,
-            "prompt": "Si <ANY PLAYER> fuera un personaje de Mortal Kombat, este sería su movimiento especial"
+            "prompt": "Si algun miembro del server fuera un personaje de Mortal Kombat, este sería su movimiento especial"
         },
         {
             "x": false,
@@ -2763,7 +2763,7 @@
         {
             "x": true,
             "id": 60629,
-            "prompt": "Nunca hay que mezclar bebidas blancas con <BLANK>"
+            "prompt": "Nunca hay que mezclar bebidas blancas con \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2793,7 +2793,7 @@
         {
             "x": true,
             "id": 60635,
-            "prompt": "El nombre que te pondrías si fueras <i>drag queen<\/i>"
+            "prompt": "El nombre que te pondrías si fueras *drag queen*"
         },
         {
             "x": false,
@@ -2803,7 +2803,7 @@
         {
             "x": false,
             "id": 60637,
-            "prompt": "Los candidatos a presidente del Gobierno no deberían enfrentarse en las urnas, sino en un <BLANK>"
+            "prompt": "Los candidatos a presidente del Gobierno no deberían enfrentarse en las urnas, sino en un \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2813,7 +2813,7 @@
         {
             "x": false,
             "id": 60639,
-            "prompt": "Todos los coches de macarra deberían llevar un cartel con el texto <BLANK>"
+            "prompt": "Todos los coches de macarra deberían llevar un cartel con el texto \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2833,17 +2833,17 @@
         {
             "x": false,
             "id": 60643,
-            "prompt": "El peor despacho tendría vistas a <BLANK>"
+            "prompt": "El peor despacho tendría vistas a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
             "id": 60644,
-            "prompt": "La mejor forma de traumatizar a tus hijos: \u201cPapá y yo nos conocimos en <BLANK>\u201d"
+            "prompt": "La mejor forma de traumatizar a tus hijos: \u201cPapá y yo nos conocimos en \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
             "id": 60645,
-            "prompt": "Lo peor de ser siervo de Drácula es que te pasas el día <BLANK>"
+            "prompt": "Lo peor de ser siervo de Drácula es que te pasas el día \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2858,7 +2858,7 @@
         {
             "x": false,
             "id": 60648,
-            "prompt": "En el autobús hay que ceder el asiento a <BLANK>"
+            "prompt": "En el autobús hay que ceder el asiento a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2868,12 +2868,12 @@
         {
             "x": true,
             "id": 60650,
-            "prompt": "La mejor forma de hacer amigos en una sauna es quitarte la toalla y <BLANK>"
+            "prompt": "La mejor forma de hacer amigos en una sauna es quitarte la toalla y \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
             "id": 60651,
-            "prompt": "<i>Granjero busca esposa<\/i> es mil veces mejor que <i><BLANK> busca esposa<\/i>"
+            "prompt": "*Granjero busca esposa* es mil veces mejor que *\\_\\_\\_\\_\\_\\_\\_\\_\\_ busca esposa*"
         },
         {
             "x": false,
@@ -2883,7 +2883,7 @@
         {
             "x": false,
             "id": 60653,
-            "prompt": "La versión extendida de <i>Cien años de soledad<\/i>"
+            "prompt": "La versión extendida de *Cien años de soledad*"
         },
         {
             "x": false,
@@ -2908,7 +2908,7 @@
         {
             "x": false,
             "id": 60658,
-            "prompt": "En el currículum de Robocop pone que su especialidad es <BLANK>"
+            "prompt": "En el currículum de Robocop pone que su especialidad es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -2928,7 +2928,7 @@
         {
             "x": false,
             "id": 60662,
-            "prompt": "Todo el mundo adora a Enrique Iglesias porque <BLANK>"
+            "prompt": "Todo el mundo adora a Enrique Iglesias porque \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -2938,7 +2938,7 @@
         {
             "x": false,
             "id": 60664,
-            "prompt": "El eslogan electoral de un friki de los videojuegos sería \u201c<BLANK>\u201d"
+            "prompt": "El eslogan electoral de un friki de los videojuegos sería \u201c\\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": true,
@@ -2948,12 +2948,12 @@
         {
             "x": true,
             "id": 60666,
-            "prompt": "El hombre perfecto es alto, moreno y <BLANK>"
+            "prompt": "El hombre perfecto es alto, moreno y \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60667,
-            "prompt": "En el futuro, los robots lo harán todo por nosotros excepto <BLANK>"
+            "prompt": "En el futuro, los robots lo harán todo por nosotros excepto \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -2978,32 +2978,32 @@
         {
             "x": false,
             "id": 60672,
-            "prompt": "Sabes que no te puedes fiar de tu casero si <BLANK>"
+            "prompt": "Sabes que no te puedes fiar de tu casero si \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60673,
-            "prompt": "Lo más extraño que tu abuelita podría coser para ti sería <BLANK>"
+            "prompt": "Lo más extraño que tu abuelita podría coser para ti sería \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60674,
-            "prompt": "Te sientes muy mayor cuando entras en un bar y te preguntan si <BLANK>"
+            "prompt": "Te sientes muy mayor cuando entras en un bar y te preguntan si \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60675,
-            "prompt": "Sabes que te has equivocado de restaurante cuando abres la carta y ves <BLANK>"
+            "prompt": "Sabes que te has equivocado de restaurante cuando abres la carta y ves \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
             "id": 60676,
-            "prompt": "Lo más raro que puede afirmar un famoso: \u201cEsa mujer y yo nunca <BLANK>\u201d"
+            "prompt": "Lo más raro que puede afirmar un famoso: \u201cEsa mujer y yo nunca \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
             "id": 60677,
-            "prompt": "Sabes que tu empresa está a punto de quebrar cuando llegas un día y ves <BLANK>"
+            "prompt": "Sabes que tu empresa está a punto de quebrar cuando llegas un día y ves \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3018,7 +3018,7 @@
         {
             "x": false,
             "id": 60680,
-            "prompt": "El clásico de la literatura que todas las abejas se leen en el instituto es <BLANK>"
+            "prompt": "El clásico de la literatura que todas las abejas se leen en el instituto es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3048,7 +3048,7 @@
         {
             "x": false,
             "id": 60686,
-            "prompt": "Si te sobrara el dinero, viajarías más que <BLANK>"
+            "prompt": "Si te sobrara el dinero, viajarías más que \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3063,7 +3063,7 @@
         {
             "x": false,
             "id": 60689,
-            "prompt": "Harry Potter puede utilizar un hechizo prohibido que le permite <BLANK>"
+            "prompt": "Harry Potter puede utilizar un hechizo prohibido que le permite \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3073,7 +3073,7 @@
         {
             "x": false,
             "id": 60691,
-            "prompt": "Si <ANY PLAYER> fuera un juguete, diría la frase <BLANK>"
+            "prompt": "Si algun miembro del server fuera un juguete, diría la frase \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -3083,7 +3083,7 @@
         {
             "x": true,
             "id": 60693,
-            "prompt": "Lo único peor que toser sangre es toser <BLANK> "
+            "prompt": "Lo único peor que toser sangre es toser \\_\\_\\_\\_\\_\\_\\_\\_\\_ "
         },
         {
             "x": false,
@@ -3108,22 +3108,22 @@
         {
             "x": false,
             "id": 60698,
-            "prompt": "Lo único que puede sobrevivir a una guerra nuclear son las cucarachas y <BLANK>"
+            "prompt": "Lo único que puede sobrevivir a una guerra nuclear son las cucarachas y \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60699,
-            "prompt": "Te sorprendería ver que el móvil de Ned Flanders está lleno de fotos de <BLANK>"
+            "prompt": "Te sorprendería ver que el móvil de Ned Flanders está lleno de fotos de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60700,
-            "prompt": "Si te reunieras con tus antiguos compañeros de instituto, fardarías de haber <BLANK>"
+            "prompt": "Si te reunieras con tus antiguos compañeros de instituto, fardarías de haber \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60701,
-            "prompt": "Sería una pasada que existiera un grupo llamado Andy, Lucas y <BLANK>"
+            "prompt": "Sería una pasada que existiera un grupo llamado Andy, Lucas y \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3133,12 +3133,12 @@
         {
             "x": true,
             "id": 60703,
-            "prompt": "El titular más surrealista de la <i>Cosmopolitan<\/i>: \u201c17 trucos para <BLANK>\u201d"
+            "prompt": "El titular más surrealista de la *Cosmopolitan*: \u201c17 trucos para \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
             "id": 60704,
-            "prompt": "¿Adónde van las fichas que desaparecen en el <i>Tetris<\/i>?"
+            "prompt": "¿Adónde van las fichas que desaparecen en el *Tetris*?"
         },
         {
             "x": true,
@@ -3153,27 +3153,27 @@
         {
             "x": true,
             "id": 60707,
-            "prompt": "Una señal que te sorprendería ver: \u201c<BLANK> a 200 m\u201d"
+            "prompt": "Una señal que te sorprendería ver: \u201c\\_\\_\\_\\_\\_\\_\\_\\_\\_ a 200 m\u201d"
         },
         {
             "x": false,
             "id": 60708,
-            "prompt": "La segunda parte de <i>Todo sobre mi madre<\/i> debería llamarse <i>Todo sobre mi <BLANK><\/i>"
+            "prompt": "La segunda parte de *Todo sobre mi madre* debería llamarse *Todo sobre mi \\_\\_\\_\\_\\_\\_\\_\\_\\_*"
         },
         {
             "x": false,
             "id": 60709,
-            "prompt": "Lo más inconfesable que <ANY PLAYER> ha buscado en Google"
+            "prompt": "Lo más inconfesable que algun miembro del server ha buscado en Google"
         },
         {
             "x": false,
             "id": 60710,
-            "prompt": "La mejor forma de zanjar una conversación es mirar el reloj y decir \u201c<BLANK>\u201d"
+            "prompt": "La mejor forma de zanjar una conversación es mirar el reloj y decir \u201c\\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
             "id": 60711,
-            "prompt": "En el episodio más surrealista de <i>Cuéntame cómo pasó<\/i>, Antonio y Merche viajan a <BLANK>"
+            "prompt": "En el episodio más surrealista de *Cuéntame cómo pasó*, Antonio y Merche viajan a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3183,7 +3183,7 @@
         {
             "x": true,
             "id": 60713,
-            "prompt": "La forma más extraña de terminar una cita: \u201c¿Te vienes a mi casa y <BLANK>?\u201d"
+            "prompt": "La forma más extraña de terminar una cita: \u201c¿Te vienes a mi casa y \\_\\_\\_\\_\\_\\_\\_\\_\\_?\u201d"
         },
         {
             "x": false,
@@ -3193,7 +3193,7 @@
         {
             "x": false,
             "id": 60715,
-            "prompt": "Palabras textuales de tu abuelo: \u201cOjalá hubiera dedicado más tiempo a <BLANK>\u201d"
+            "prompt": "Palabras textuales de tu abuelo: \u201cOjalá hubiera dedicado más tiempo a \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
@@ -3203,7 +3203,7 @@
         {
             "x": false,
             "id": 60717,
-            "prompt": "Si en una entrevista de trabajo te preguntan cuál es tu mayor defecto, di que <BLANK>"
+            "prompt": "Si en una entrevista de trabajo te preguntan cuál es tu mayor defecto, di que \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3218,7 +3218,7 @@
         {
             "x": true,
             "id": 60720,
-            "prompt": "El amor verdadero es pedirle a tu pareja que <BLANK> y que lo haga sin rechistar"
+            "prompt": "El amor verdadero es pedirle a tu pareja que \\_\\_\\_\\_\\_\\_\\_\\_\\_ y que lo haga sin rechistar"
         },
         {
             "x": false,
@@ -3228,7 +3228,7 @@
         {
             "x": false,
             "id": 60722,
-            "prompt": "Despedirían fulminantemente al organista de una iglesia si tocara <BLANK>"
+            "prompt": "Despedirían fulminantemente al organista de una iglesia si tocara \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3243,27 +3243,27 @@
         {
             "x": false,
             "id": 60725,
-            "prompt": "Lo peor que puedes gritar en un cine lleno hasta los topes es \u201c¡<BLANK>!\u201d"
+            "prompt": "Lo peor que puedes gritar en un cine lleno hasta los topes es \u201c¡\\_\\_\\_\\_\\_\\_\\_\\_\\_!\u201d"
         },
         {
             "x": false,
             "id": 60726,
-            "prompt": "Si <ANY PLAYER> tuviera un partido político, su himno sería esta canción"
+            "prompt": "Si algun miembro del server tuviera un partido político, su himno sería esta canción"
         },
         {
             "x": false,
             "id": 60727,
-            "prompt": "Las piscinas de bolas son mucho mejores que las piscinas de <BLANK>"
+            "prompt": "Las piscinas de bolas son mucho mejores que las piscinas de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60728,
-            "prompt": "Si España tiene forma de piel de toro, Francia debería tener forma de <BLANK>"
+            "prompt": "Si España tiene forma de piel de toro, Francia debería tener forma de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
             "id": 60729,
-            "prompt": "Sabes que tu hijo está mal de la azotea cuando hace un dibujo de <BLANK>"
+            "prompt": "Sabes que tu hijo está mal de la azotea cuando hace un dibujo de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3273,7 +3273,7 @@
         {
             "x": false,
             "id": 60731,
-            "prompt": "El plan B de Luke Skywalker para destruir la Estrella de la Muerte era <BLANK>"
+            "prompt": "El plan B de Luke Skywalker para destruir la Estrella de la Muerte era \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3293,12 +3293,12 @@
         {
             "x": false,
             "id": 60735,
-            "prompt": "Si <ANY PLAYER> tuviera un club clandestino, la contraseña para entrar sería <BLANK>"
+            "prompt": "Si algun miembro del server tuviera un club clandestino, la contraseña para entrar sería \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60736,
-            "prompt": "¿Qué recuerdo está reprimiendo <ANY PLAYER>?"
+            "prompt": "¿Qué recuerdo está reprimiendo algun miembro del server?"
         },
         {
             "x": false,
@@ -3308,7 +3308,7 @@
         {
             "x": false,
             "id": 60738,
-            "prompt": "La Nocilla lleva leche, cacao, avellanas y <BLANK>"
+            "prompt": "La Nocilla lleva leche, cacao, avellanas y \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -3323,7 +3323,7 @@
         {
             "x": false,
             "id": 60741,
-            "prompt": "El próximo teléfono móvil de moda costará aproximadamente <BLANK>"
+            "prompt": "El próximo teléfono móvil de moda costará aproximadamente \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3353,7 +3353,7 @@
         {
             "x": false,
             "id": 60747,
-            "prompt": "Si quieres que tu espantapájaros funcione, haz que se parezca a <BLANK>"
+            "prompt": "Si quieres que tu espantapájaros funcione, haz que se parezca a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3373,7 +3373,7 @@
         {
             "x": false,
             "id": 60751,
-            "prompt": "La mejor forma de hacer rabiar a un delfín es <BLANK>"
+            "prompt": "La mejor forma de hacer rabiar a un delfín es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3398,7 +3398,7 @@
         {
             "x": false,
             "id": 60756,
-            "prompt": "El baloncesto sería mucho más divertido si cada tres pasos hubiera que <BLANK>"
+            "prompt": "El baloncesto sería mucho más divertido si cada tres pasos hubiera que \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3408,7 +3408,7 @@
         {
             "x": true,
             "id": 60758,
-            "prompt": "Sabes que el camarero te está tirando los tejos cuando te dice \u201c¿Te apetece <BLANK> para acompañar?\u201d"
+            "prompt": "Sabes que el camarero te está tirando los tejos cuando te dice \u201c¿Te apetece \\_\\_\\_\\_\\_\\_\\_\\_\\_ para acompañar?\u201d"
         },
         {
             "x": false,
@@ -3423,7 +3423,7 @@
         {
             "x": false,
             "id": 60761,
-            "prompt": "El único caso que Sherlock Holmes fue incapaz de resolver fue el de <BLANK>"
+            "prompt": "El único caso que Sherlock Holmes fue incapaz de resolver fue el de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3443,7 +3443,7 @@
         {
             "x": false,
             "id": 60765,
-            "prompt": "La acampada con tu padre iba muy bien hasta que se giró, te cogió por los hombros y te dijo \u201cHijo, <BLANK>\u201d"
+            "prompt": "La acampada con tu padre iba muy bien hasta que se giró, te cogió por los hombros y te dijo \u201cHijo, \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
@@ -3468,7 +3468,7 @@
         {
             "x": false,
             "id": 60770,
-            "prompt": "La mejor forma de cabrear al camarero de un restaurante pijo es preguntarle \u201c<BLANK>\u201d"
+            "prompt": "La mejor forma de cabrear al camarero de un restaurante pijo es preguntarle \u201c\\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
@@ -3498,7 +3498,7 @@
         {
             "x": false,
             "id": 60776,
-            "prompt": "Sabes que tu contable está tramando algo cuando te pide que le enseñes tu <BLANK>"
+            "prompt": "Sabes que tu contable está tramando algo cuando te pide que le enseñes tu \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3523,12 +3523,12 @@
         {
             "x": false,
             "id": 60781,
-            "prompt": "Las velas perfumadas que peor se venden son las de <BLANK>"
+            "prompt": "Las velas perfumadas que peor se venden son las de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60782,
-            "prompt": "El mundo sería mucho más cómico si todas las bicis se convirtieran en <BLANK>"
+            "prompt": "El mundo sería mucho más cómico si todas las bicis se convirtieran en \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3558,7 +3558,7 @@
         {
             "x": false,
             "id": 60788,
-            "prompt": "¡Briconsejo! También puedes usar un rallador de queso para <BLANK>"
+            "prompt": "¡Briconsejo! También puedes usar un rallador de queso para \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3573,27 +3573,27 @@
         {
             "x": false,
             "id": 60791,
-            "prompt": "Lo peor que puedes ganar en un concurso de cocina vegana: suministro de <BLANK> para toda la vida"
+            "prompt": "Lo peor que puedes ganar en un concurso de cocina vegana: suministro de \\_\\_\\_\\_\\_\\_\\_\\_\\_ para toda la vida"
         },
         {
             "x": false,
             "id": 60792,
-            "prompt": "Si te encuentras con un oso, quédate quieto y <BLANK>"
+            "prompt": "Si te encuentras con un oso, quédate quieto y \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60793,
-            "prompt": "Si tuvieras un hermano gemelo, podrías cambiarte por él durante <BLANK>"
+            "prompt": "Si tuvieras un hermano gemelo, podrías cambiarte por él durante \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60794,
-            "prompt": "Tu abuelita siempre te decía que miraras antes de <BLANK>"
+            "prompt": "Tu abuelita siempre te decía que miraras antes de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60795,
-            "prompt": "El coche menos contaminante de la historia es el <BLANK>móvil"
+            "prompt": "El coche menos contaminante de la historia es el \\_\\_\\_\\_\\_\\_\\_\\_\\_móvil"
         },
         {
             "x": false,
@@ -3603,7 +3603,7 @@
         {
             "x": true,
             "id": 60797,
-            "prompt": "Sabes que tienes que perder peso cuando la barriga no te deja verte <BLANK>"
+            "prompt": "Sabes que tienes que perder peso cuando la barriga no te deja verte \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3618,12 +3618,12 @@
         {
             "x": true,
             "id": 60800,
-            "prompt": "La peor tortura china es la muerte por mil <BLANK>"
+            "prompt": "La peor tortura china es la muerte por mil \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
             "id": 60801,
-            "prompt": "No irías a un urólogo llamado Dr. <BLANK>"
+            "prompt": "No irías a un urólogo llamado Dr. \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -3668,7 +3668,7 @@
         {
             "x": false,
             "id": 60810,
-            "prompt": "Te pondría de los nervios que la persona a tu lado en un avión empezara a <BLANK>"
+            "prompt": "Te pondría de los nervios que la persona a tu lado en un avión empezara a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3688,17 +3688,17 @@
         {
             "x": false,
             "id": 60814,
-            "prompt": "La peor maldición sería convertirse en <BLANK> con la luna llena"
+            "prompt": "La peor maldición sería convertirse en \\_\\_\\_\\_\\_\\_\\_\\_\\_ con la luna llena"
         },
         {
             "x": false,
             "id": 60815,
-            "prompt": "Sabes que tienes que apuntarte al gimnasio cuando <BLANK>"
+            "prompt": "Sabes que tienes que apuntarte al gimnasio cuando \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 60816,
-            "prompt": "La continuación de <i>Titanic<\/i> debería llamarse <i>Titanic 2: <BLANK><\/i>"
+            "prompt": "La continuación de *Titanic* debería llamarse *Titanic 2: \\_\\_\\_\\_\\_\\_\\_\\_\\_*"
         },
         {
             "x": true,
@@ -3723,7 +3723,7 @@
         {
             "x": false,
             "id": 60821,
-            "prompt": "<i>Star Wars episodio XIV: <BLANK><\/i>"
+            "prompt": "*Star Wars episodio XIV: \\_\\_\\_\\_\\_\\_\\_\\_\\_*"
         },
         {
             "x": false,
@@ -3738,7 +3738,7 @@
         {
             "x": false,
             "id": 60824,
-            "prompt": "Cuando Harry el Sucio decidió reformarse, se cambió el nombre a Harry el <BLANK>"
+            "prompt": "Cuando Harry el Sucio decidió reformarse, se cambió el nombre a Harry el \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3763,7 +3763,7 @@
         {
             "x": false,
             "id": 68200,
-            "prompt": "La Tomatina sería mucho más divertida si la gente se lanzara <BLANK>"
+            "prompt": "La Tomatina sería mucho más divertida si la gente se lanzara \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3803,7 +3803,7 @@
         {
             "x": false,
             "id": 68208,
-            "prompt": "Todos los años mueren 30 españoles por comer <BLANK>"
+            "prompt": "Todos los años mueren 30 españoles por comer \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": true,
@@ -3813,17 +3813,17 @@
         {
             "x": false,
             "id": 68210,
-            "prompt": "La Nochevieja sería mejor si en vez de uvas se comieran <BLANK>"
+            "prompt": "La Nochevieja sería mejor si en vez de uvas se comieran \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 68211,
-            "prompt": "Si <BLANK> estuviera vivo, sería presidente del Gobierno"
+            "prompt": "Si \\_\\_\\_\\_\\_\\_\\_\\_\\_ estuviera vivo, sería presidente del Gobierno"
         },
         {
             "x": false,
             "id": 68212,
-            "prompt": "Si existiera una princesa española, estaría inspirada en <BLANK>"
+            "prompt": "Si existiera una princesa española, estaría inspirada en \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3908,7 +3908,7 @@
         {
             "x": false,
             "id": 68230,
-            "prompt": "España necesita con urgencia un ministerio de <BLANK>"
+            "prompt": "España necesita con urgencia un ministerio de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3933,7 +3933,7 @@
         {
             "x": false,
             "id": 68235,
-            "prompt": "Si el himno de España tuviera letra, debería cantarlo <BLANK>"
+            "prompt": "Si el himno de España tuviera letra, debería cantarlo \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3943,12 +3943,12 @@
         {
             "x": false,
             "id": 68237,
-            "prompt": "Refrán alternativo: \u201cOjos que no ven, <BLANK>\u201d"
+            "prompt": "Refrán alternativo: \u201cOjos que no ven, \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
             "id": 68238,
-            "prompt": "La fiesta definitiva sería una mezcla de las Fallas y <BLANK>"
+            "prompt": "La fiesta definitiva sería una mezcla de las Fallas y \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -3978,7 +3978,7 @@
         {
             "x": false,
             "id": 68244,
-            "prompt": "Nadie iría al cine a ver una película española sobre <BLANK>"
+            "prompt": "Nadie iría al cine a ver una película española sobre \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -4003,7 +4003,7 @@
         {
             "x": false,
             "id": 68249,
-            "prompt": "El deporte de riesgo favorito de los españoles es <BLANK>"
+            "prompt": "El deporte de riesgo favorito de los españoles es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -4018,17 +4018,17 @@
         {
             "x": false,
             "id": 68252,
-            "prompt": "En fenicio, \u201cHispania\u201d significa \u201ctierra de <BLANK>\u201d"
+            "prompt": "En fenicio, \u201cHispania\u201d significa \u201ctierra de \\_\\_\\_\\_\\_\\_\\_\\_\\_\u201d"
         },
         {
             "x": false,
             "id": 68253,
-            "prompt": "En España triunfarían las patatas fritas con sabor a <BLANK>"
+            "prompt": "En España triunfarían las patatas fritas con sabor a \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 68254,
-            "prompt": "Es un hecho poco conocido que Teruel está lleno de <BLANK>"
+            "prompt": "Es un hecho poco conocido que Teruel está lleno de \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -4038,7 +4038,7 @@
         {
             "x": false,
             "id": 68256,
-            "prompt": "Hacen falta 15 españoles para <BLANK>"
+            "prompt": "Hacen falta 15 españoles para \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -4048,12 +4048,12 @@
         {
             "x": false,
             "id": 68258,
-            "prompt": "Para adaptarnos a los tiempos, habría que cambiar los toros de las carreteras por <BLANK>"
+            "prompt": "Para adaptarnos a los tiempos, habría que cambiar los toros de las carreteras por \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
             "id": 68259,
-            "prompt": "Mezclar horchata con <BLANK> es una pésima idea"
+            "prompt": "Mezclar horchata con \\_\\_\\_\\_\\_\\_\\_\\_\\_ es una pésima idea"
         },
         {
             "x": false,
@@ -4078,7 +4078,7 @@
         {
             "x": false,
             "id": 68264,
-            "prompt": "La versión española de una película de vaqueros estaría interpretada por <BLANK>"
+            "prompt": "La versión española de una película de vaqueros estaría interpretada por \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -4108,7 +4108,7 @@
         {
             "x": false,
             "id": 68270,
-            "prompt": "Nueve de cada diez cuñados españoles recomiendan <BLANK>"
+            "prompt": "Nueve de cada diez cuñados españoles recomiendan \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -4128,7 +4128,7 @@
         {
             "x": false,
             "id": 68274,
-            "prompt": "Lo que distingue a los bares españoles más auténticos es <BLANK>"
+            "prompt": "Lo que distingue a los bares españoles más auténticos es \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -4158,7 +4158,7 @@
         {
             "x": false,
             "id": 68280,
-            "prompt": "Una ardilla podría cruzar España saltando de un <BLANK> a otro"
+            "prompt": "Una ardilla podría cruzar España saltando de un \\_\\_\\_\\_\\_\\_\\_\\_\\_ a otro"
         },
         {
             "x": false,
@@ -4183,7 +4183,7 @@
         {
             "x": false,
             "id": 68285,
-            "prompt": "Poca gente sabe que <BLANK> formó parte del Imperio español"
+            "prompt": "Poca gente sabe que \\_\\_\\_\\_\\_\\_\\_\\_\\_ formó parte del Imperio español"
         },
         {
             "x": false,
@@ -4193,7 +4193,7 @@
         {
             "x": false,
             "id": 68287,
-            "prompt": "Si quieres ganarte la enemistad de un español, dile que no te gusta <BLANK>"
+            "prompt": "Si quieres ganarte la enemistad de un español, dile que no te gusta \\_\\_\\_\\_\\_\\_\\_\\_\\_"
         },
         {
             "x": false,
@@ -4248,7 +4248,7 @@
         {
             "x": false,
             "id": 68299,
-            "prompt": "Por increíble que parezca, España produce el 80 % de <BLANK> del mundo"
+            "prompt": "Por increíble que parezca, España produce el 80 % de \\_\\_\\_\\_\\_\\_\\_\\_\\_ del mundo"
         }
     ],
     "episodeid": 1416

@@ -21,14 +21,15 @@ module.exports = {
   * */
   async execute(client, interaction){
     const game = await GameModel.findById(interaction.channelId)
-    if(!game) return interaction.reply({ content: 'No hay un juego activo en este canal' })
+    if(!game) return interaction.reply({ content: 'No hay un juego activo en este canal', ephemeral: true })
     if(!game.players.includes(interaction.user.id)) return interaction.reply({content: "No estas participando en este juego", ephemeral: true })
     const question = game.questions.find(q => q.users.includes(interaction.user.id) && !q.answers.find(a => a.user == interaction.user.id))
     if(question)
     {
       game.questions[game.questions.indexOf(question)].answers.push({a: interaction.options.get('respuesta').value, user: interaction.user.id})
+      const newQuestion = game.questions.find(q => q.users.includes(interaction.user.id) && !q.answers.find(a => a.user == interaction.user.id))
       interaction.reply({
-        content: question.prompt+'\n> '+interaction.options.get('respuesta').value,
+        content: question.prompt+'\n> '+interaction.options.get('respuesta').value+'\nSiguiente pregunta:\n'+(newQuestion?newQuestion.prompt:'Ya respondiste a todas tus preguntas'),
         ephemeral: true
       })
       await game.save()
