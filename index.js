@@ -31,7 +31,8 @@ files('./commands').forEach(c => {
     if(command.components?.[0]) command.components.forEach(co=>client.components.set(co.name, co))
   }
   catch (err) {
-    console.error(`Comando ${p} no funciona: ${err}`)
+    console.error(`Comando ${p} no funciona:`)
+    console.error(err)
   }
 })
 
